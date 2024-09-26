@@ -21,6 +21,7 @@ The house is in a densely populated area, leading to potential **interference** 
 ### Devices Used
 - **Laptop**: Asus TUF Gaming FX505G with an Intel Wireless-AC 9462 network card supporting the following Wi-Fi standards: 802.11b, 802.11g, 802.11n, 802.11a, and 802.11ac.
 - **Powerline Adapter**: To extend signal coverage into weak areas, particularly the bedroom and balcony.
+- **Netspot app**: To obtain wi-fi coverage. 
 
 ## Initial Signal Analysis
 
