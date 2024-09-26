@@ -1,4 +1,4 @@
-# Wi-Fi Network Analysis and Optimization Report
+# Wi-Fi Network Analysis and Optimization
 
 ## Project Overview
 
